@@ -20,7 +20,7 @@ Nowadays, we have some difficulties in obtaining the distance that we want to me
          
 ## Defining Our System
 
-Distance measurement using HC-SR04 and ATMEGA328p. In this project i have measured distance in centimeters, with the help of HC-SR04 Ultrasound sensor, ATMEGA328p micro-controller, LCD Display via I2C bus.
+Span measurement using HC-SR04 and ATMEGA328p. In this project i have measured distance in centimeters, with the help of HC-SR04 Ultrasound sensor, ATMEGA328p micro-controller, LCD Display via I2C bus.
 
 Principle:
 

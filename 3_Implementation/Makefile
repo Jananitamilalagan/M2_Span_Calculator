@@ -1,4 +1,4 @@
-PROJ_NAME = Project
+PROJ_NAME = Span measurement using ultrasonic sensor
 
 BUILD_DIR = Build
 

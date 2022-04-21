@@ -1,4 +1,4 @@
-# Test plan and Output
+# Test plan
 
 * Capture the steps to test and verify each requirement
 * Test once the Implementation is done 

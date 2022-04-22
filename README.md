@@ -20,7 +20,7 @@ Folder               | Description
 
 ## Badges
 
-* Codacy - Static Analysis
+* Codacy - Static Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/721a02322c9c4a6f91a8f3669631b4b5)](https://www.codacy.com/gh/Jananitamilalagan/M2_Span_Measurement_Using_ultrasonic_sensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jananitamilalagan/M2_Span_Measurement_Using_ultrasonic_sensor&amp;utm_campaign=Badge_Grade)
 
 
 

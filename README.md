@@ -17,4 +17,13 @@ Folder               | Description
 4_TestPlan         | Explains the plan.
 5_Report            | Overview of the project.
 6_Output Images     |outsketch.
+
+## Badges
+
+* Codacy - Static Analysis
+
+
+
+## CppCheck
+
  

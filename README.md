@@ -27,4 +27,4 @@ Folder               | Description
 ## CppCheck
 [![Cpp-Check](https://github.com/Jananitamilalagan/M2_Span_Measurement_Using_ultrasonic_sensor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Jananitamilalagan/M2_Span_Measurement_Using_ultrasonic_sensor/actions/workflows/c-cpp.yml)
 
- 
+ [![Analysis](https://github.com/Jananitamilalagan/M2_Span_Measurement_Using_ultrasonic_sensor/actions/workflows/analysis.yml/badge.svg)](https://github.com/Jananitamilalagan/M2_Span_Measurement_Using_ultrasonic_sensor/actions/workflows/analysis.yml)

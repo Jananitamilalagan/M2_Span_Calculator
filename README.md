@@ -10,7 +10,8 @@ Ultrasonic sensors are great tools to measure distance and detect objects withou
 
 ## Folder Structure
 Folder               | Description
--------------------  | -----------------------------------------
+-------------------| -----------------------------------------
+0_Abstract            | About the project.
 1_Requirements       | Documents Detailing requirements and research.
 2_Design           | Documents Specifying design details.
 3_Implementation   | All Code and Documentation.
